@@ -1,5 +1,5 @@
-<h1 align="center"> Data extraction and processing</h1>
-<h1>GDP Data from different countries</h1>
+<h1 align="center">:globe_with_meridians: GDP Data from different countries</h1>
+<h1 align="center">Data extraction and processing</h1>
 
 <h2>💻 Tool I Used:</h2>
 <ul>
